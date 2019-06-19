@@ -1,0 +1,57 @@
+【スキルシート】
+
+【プログラミング言語】
+Visual Basic 6.0
+Java
+C言語
+HTML
+CSS
+PHP
+SQL文
+VBA
+VB(VB.NET)
+C#
+GAS
+
+【開発環境やソフト】
+コマンドプロンプト
+NetBeans
+eclipse
+MAMP(phpMyAdminとセット使用)
+XAMPP(phpMyAdminとセット使用)
+Oracle Datebase
+A5:SQL Mk-2
+ODBC
+ADO
+FFFTP
+Unity
+visual studio2017,2019
+GitとGitHubとTortoiseGitのセットアップから操作
+
+【体系的スキル】
+・Java CUI でゲーム作り
+・HTMLとCSSでホームページとポートフォリオ作成(デザイン初心者レベル)
+・XAMPPとphpMyAdminでデータベース操作
+・VBAコマンドボタンでデータベースのレコードをExcelに出力
+・VB.NETでGUI電卓
+・GASでユーザーにフォーム入力してもらい、メールの自動返信
+・GASでTwitter API利用してBotの作成
+
+【YouTube】
+俺のアフレコ(動画に音楽追加アプリ)
+俺の字幕動画(動画に字幕追加アプリ)
+合成スタジオ(静止画画像合成アプリ)
+LINEカメラ(静止画文字追加アプリ)
+Phonto(静止画文字追加アプリ)
+
+【ショートカットキー】
+Windows、Mac、オフィスソフト、ブラウザなどではよく使います。
+よく使うのは、
+Alt + Tab
+Windows + D
+Ctrl + I
+
+【タイピング速度】
+資格としてはワード3級
+かんたん打鍵速度チェッカーで測定すると、20秒で86打鍵。
+
